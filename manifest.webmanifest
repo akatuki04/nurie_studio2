@@ -1,0 +1,15 @@
+{
+  "name": "ぬりえ工房 — 写真を塗り絵に",
+  "short_name": "ぬりえ工房",
+  "description": "スマホの写真を白背景・黒線の塗り絵に変換",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf8f2",
+  "theme_color": "#1d6156",
+  "lang": "ja",
+  "icons": [
+    {"src":"./icons/icon-192.png","type":"image/png","sizes":"192x192","purpose":"any maskable"},
+    {"src":"./icons/icon-512.png","type":"image/png","sizes":"512x512","purpose":"any maskable"}
+  ]
+}
